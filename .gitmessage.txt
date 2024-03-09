@@ -1,0 +1,23 @@
+# [Type] [Title(0 ~ 50 characters)]
+# e.g.
+# Feat feature/mouse-camera
+# Chore build system
+
+# Body (72 characters per line)
+# -
+# If you want to break a new line, write '-' and enter the next line here.
+
+# Footer
+# e.g. Close #25, Solve #34
+
+# [Type]
+# Feat : Add new features.
+# Fix : Fix bugs.
+# Docs : Edit documents.
+# Test : Add test codes.
+# Refact : Code Refactoring
+# Style : A change log that does not affect the semantics of the code.
+# Comment : Add comments.
+# Chore : Edit log about build files or the package manager.
+# Move : Move files or directories.
+# Remove : Remove files or directories.

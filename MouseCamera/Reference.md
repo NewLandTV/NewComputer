@@ -1,0 +1,1 @@
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210802154942/HandLandmarks.png" width="200%" height="200%">
